@@ -1,0 +1,21 @@
+{
+  "name": "story-eng",
+  "version": "1.0.0",
+  "description": "Engineer for creating text adventure games",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnross/story-eng.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnross/story-eng/issues"
+  },
+  "homepage": "https://github.com/ronnross/story-eng#readme"
+}
